@@ -11,5 +11,5 @@ It uses api from weathermap.org and fetch real time data
 
 ![image](https://github.com/isseidevil/weather-app/assets/149817970/f125fd02-69cf-4490-9172-5bcacb28cff8)
 
-#live demo
+# live demo
 https://sdxd-weater-app.netlify.app/
